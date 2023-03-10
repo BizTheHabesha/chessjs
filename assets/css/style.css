@@ -1,0 +1,7 @@
+:root{
+    --std-background-img: url("../img/standard-background.jpg");
+}
+body{
+    background-image: var(--std-background-img);
+    background-repeat: no-repeat;
+}
